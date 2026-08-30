@@ -1,5 +1,5 @@
-# Hi, I'm Yash 👋
-# 💫 About Me:
+# Hi, I'm Yash 
+# About Me:
 I’m a Computer Science + Math student at UIUC who enjoys building real-world software, working with AI/ML systems, and constantly improving as a developer.<br><br>I’m especially interested in AI, machine learning, and scalable full-stack development, and I like building projects that solve practical problems — from LLM research and automation pipelines to full-stack web apps and recommendation systems. I’ve worked on ML research involving LLM hallucination detection, built backend systems and APIs, and developed full-stack apps using modern frameworks. Right now I’m focused on:<br><br>🧠 AI/ML + real-world applications<br><br>🌐 Full-stack development (React, FastAPI, cloud deployment)<br><br>⚙️ Scalable backend systems + APIs<br><br>🚀 Building projects that actually get used<br><br>Outside of tech, I’m big on staying active — you’ll usually find me at the gym, playing pickleball, or watching/playing sports. I like competition, discipline, and continuous improvement, and I bring that same mindset into coding and building.<br><br>I’m always working on new projects, improving my skills, and looking for opportunities to grow as a developer and engineer.
 
 
